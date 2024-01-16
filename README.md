@@ -19,6 +19,6 @@ Evaluation 2 - Machine Learning - SA2023 - Guillaume Guex.
 
 ## Instructions
 
-1. The Project Gutenberg English translation of Don Quixote is provided in don_quixote.txt
+1. The Project Gutenberg English translation of Don Quixote is provided in `don_quixote.txt`
 2. Ensure you have completed the above installations.
 3. Run each section of the Jupyter Notebook sequentially.
