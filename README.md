@@ -6,7 +6,7 @@
 
 Using Machine Learning to manipulate textual data from the English translation of Don Quixote provided on Project Gutenberg.
 
-Evaluation 2 - Machine Learning - SA2023 - Guillaume Guex.
+Evaluation 2 - Machine Learning - SA2023 - Guillaume Guex. 98%.
 
 ## Installations
 
