@@ -1,5 +1,7 @@
 # ML-Don-Quixote
 
+![Topic Modelling Output](topic_image.png)
+
 ## Outline
 
 Using Machine Learning to manipulate textual data from the English translation of Don Quixote provided on Project Gutenberg.
